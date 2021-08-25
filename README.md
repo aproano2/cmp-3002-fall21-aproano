@@ -1,1 +1,1 @@
-# cmp-3002-fall21-aproano
+# Apuntes de CMP 3002 (Fall 2021)
